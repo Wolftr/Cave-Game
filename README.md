@@ -2,7 +2,7 @@
 name is a placeholder
 
 # Description
-It's just a game I'm making. It takes place in a cave I think. It's very basic right now. The exe you want to download is in the builds folder
+It's just a game I'm making. It takes place in a cave I think. It's very basic right now.
 
 # Controls
 Z = Jump
